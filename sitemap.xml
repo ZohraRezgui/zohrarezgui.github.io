@@ -6,55 +6,55 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
-  <lastmod>2020-05-25T13:58:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/</loc>
+  <lastmod>2020-05-25T14:39:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2020/</loc>
+  <loc>https://zohrarezgui.github.io/2020/</loc>
   <lastmod>2020-05-18T15:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/about-me/</loc>
+  <loc>https://zohrarezgui.github.io/about-me/</loc>
   <lastmod>2020-05-20T18:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2020-05-20T18:13:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/archive.html</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/cartedashboard.html</loc>
+  <loc>https://zohrarezgui.github.io/cartedashboard.html</loc>
   <lastmod>2020-04-16T15:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories.html</loc>
-  <lastmod>2020-05-20T18:13:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/categories.html</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://zohrarezgui.github.io/categories/</loc>
   <lastmod>2020-05-18T15:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_stuff-i-did/</loc>
+  <loc>https://zohrarezgui.github.io/categories/cat_stuff-i-did/</loc>
   <lastmod>2020-05-18T15:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://zohrarezgui.github.io/galleries/</loc>
   <lastmod>2020-05-01T14:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://zohrarezgui.github.io/listings/</loc>
   <lastmod>2020-05-01T14:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/</loc>
+  <loc>https://zohrarezgui.github.io/posts/</loc>
   <lastmod>2020-05-01T15:04:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/stuff-i-did/</loc>
+  <loc>https://zohrarezgui.github.io/stuff-i-did/</loc>
   <lastmod>2020-05-14T21:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/visualizing-unemployment/</loc>
+  <loc>https://zohrarezgui.github.io/visualizing-unemployment/</loc>
   <lastmod>2020-05-18T15:41:00Z</lastmod>
  </url>
 </urlset>

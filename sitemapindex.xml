@@ -6,19 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/cat_stuff-i-did.xml</loc>
-  <lastmod>2020-05-20T18:13:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/categories/cat_stuff-i-did.xml</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2020-05-20T18:13:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/galleries/rss.xml</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2020-05-20T18:13:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/rss.xml</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2020-05-25T13:58:00Z</lastmod>
+  <loc>https://zohrarezgui.github.io/sitemap.xml</loc>
+  <lastmod>2020-05-25T14:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>

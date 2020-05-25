@@ -1,6 +1,6 @@
 'create_bundles:output/assets/js/all-nocdn.js', (0, 821)
 'copy_assets:output/assets/js/fancydates.min.js', (1024, 418)
-'sitemap:output/sitemapindex.xml', (1536, 255)
+'sitemap:output/sitemapindex.xml', (1536, 254)
 'render_pages', (2048, 56)
 'render_taxonomies:output/categories/index.html', (53248, 1816)
 'copy_assets:output/assets/css/ipython.min.css', (4096, 418)

@@ -51,7 +51,7 @@
 'copy_assets:output/assets/js/bootstrap.min.js', (39936, 430)
 'copy_assets:output/assets/css/nikola_rst.css', (40448, 415)
 'copy_assets:output/assets/css/baguetteBox.min.css', (40960, 425)
-'sitemap:output/sitemap.xml', (160256, 2235)
+'sitemap:output/sitemap.xml', (160256, 2238)
 'copy_files', (46592, 56)
 'render_galleries', (47104, 56)
 'copy_assets:output/assets/css/bootstrap.css', (59392, 869)

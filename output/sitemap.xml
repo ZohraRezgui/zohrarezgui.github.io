@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://zohrarezgui.github.io/</loc>
-  <lastmod>2020-05-25T14:39:00Z</lastmod>
+  <lastmod>2020-05-25T16:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/2020/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/archive.html</loc>
-  <lastmod>2020-05-25T15:03:00Z</lastmod>
+  <lastmod>2020-05-25T16:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/cartedashboard.html</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/categories.html</loc>
-  <lastmod>2020-05-25T15:03:00Z</lastmod>
+  <lastmod>2020-05-25T16:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/categories/</loc>
@@ -47,14 +47,14 @@
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/posts/</loc>
-  <lastmod>2020-05-01T15:04:00Z</lastmod>
+  <lastmod>2020-05-25T16:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://zohrarezgui.github.io/posts/visualizing-unemployment/</loc>
+  <lastmod>2020-05-25T16:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://zohrarezgui.github.io/stuff-i-did/</loc>
-  <lastmod>2020-05-14T21:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://zohrarezgui.github.io/visualizing-unemployment/</loc>
-  <lastmod>2020-05-18T15:41:00Z</lastmod>
+  <lastmod>2020-05-25T16:18:00Z</lastmod>
  </url>
 </urlset>

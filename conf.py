@@ -225,10 +225,11 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.html", "", "post.tmpl"),
-    ("posts/*.rst", "", "post.tmpl"),
-    ("posts/*.md", "", "post.tmpl"),
-    ("posts/*.txt", "", "post.tmpl")
+    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.ipynb", "posts", "post.tmpl")
     
 )
 PAGES = (

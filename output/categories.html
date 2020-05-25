@@ -72,7 +72,10 @@ navbar-light bg-light
 </div>
 
 
-        <script src="assets/js/all-nocdn.js"></script><script>
+        <script src="assets/js/all-nocdn.js"></script><script src="assets/js/moment-with-locales.min.js"></script><!-- fancy dates --><script>
+        moment.locale("en");
+        fancydates(2, "YYYY-MM-DD HH:mm");
+        </script><!-- end fancy dates --><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element) {

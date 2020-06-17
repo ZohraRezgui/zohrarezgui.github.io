@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1590430190.3158727
+_modified_time = 1592407061.6433983
 _enable_loop = True
 _template_filename = '/home/zohrarezgui/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/tagindex.tmpl'
 _template_uri = 'tagindex.tmpl'
@@ -33,16 +33,16 @@ def render_body(context,**pageargs):
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
         parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
         def content_header():
             return render_content_header(context._locals(__M_locals))
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
         title = _import_ns.get('title', context.get('title', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
@@ -67,14 +67,14 @@ def render_content_header(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         def content_header():
             return render_content_header(context)
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         title = _import_ns.get('title', context.get('title', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    <header>\n        <h1>')
@@ -110,12 +110,12 @@ def render_extra_head(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
+        parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
         def extra_head():
             return render_extra_head(context)
-        parent = _import_ns.get('parent', context.get('parent', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(parent.extra_head()))
